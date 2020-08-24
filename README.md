@@ -16,3 +16,5 @@
  For how to run the method, see the comments provided inside SudokuSolver.
 
 Link to the dataset used: https://www.kaggle.com/bryanpark/sudoku/data
+
+Link to the Java Brute Force implementation of the sudoku solver: https://github.com/LukeLNH/BruteForceSudoku
